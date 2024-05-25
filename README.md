@@ -1,7 +1,7 @@
-This is an **Food Ordering System** Management using C (Designed for Compiler)
+This is a **Food Ordering System** Management using C (Designed for Compiler)
 
 
-Here is the visual of the processing on terminal.
+Here is the visual of the processing on the terminal.
 
 ![image](https://github.com/Ashik-Ahammad/food-management-sys/assets/82080802/4b970c95-4e0d-4bdf-be37-f50a6be5639c)
 
